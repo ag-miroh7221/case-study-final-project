@@ -1,0 +1,80 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline wavy;
+}
+
+body {
+    background-color:darksalmon;
+    font-size: large;
+}
+
+p {
+    width: 100%;
+}
+
+hr{
+    border-top: 10px double rgb(77, 187, 231);
+}
+
+div {
+    width: 500px;
+    background-color: aquamarine;
+    border: 3px solid ;
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.mini_result {
+    border: 2px solid;
+    margin: 5px;
+    background-color:beige;
+    border-radius: 15px;
+    font-weight: 600;
+    color: red;
+}
+
+img {
+    width: 200;
+}
+
+span {
+    border: 2px solid grey;
+    border-radius: 10px;
+    background-color: white;
+    width: fit-content;
+    padding: 5px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    text-align: center;
+    margin-bottom: 0px;
+    line-height: 0.1px;
+    border-radius: 1px;
+}
+
+.conclusion {
+    background-color: darkcyan;
+    border: 5px dotted;
+    border-radius: 5px;
+    color: azure;
+}
+
+h4 {
+    color: crimson;
+    background-color: aliceblue;
+    width: fit-content;
+    border-radius: 5px;
+    border: 3px solid;
+}
+
+h4:hover {
+    background-color: whitesmoke;
+    color: darkolivegreen;
+}
